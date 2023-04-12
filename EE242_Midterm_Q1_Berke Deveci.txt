@@ -1,0 +1,33 @@
+﻿Find the ascii sum of the characters in your name and surname  (ascii sum of the characters in your name and surname (ascii sum of the name ali is 0.97+ 108 +105 =310)
+
+
+1. Ascii name = berke
+B) Ascii surname = deveci
+C) Asciitotal = 521 + 624 = 1145
+D) Timernumber = (1145%14)+1=11+1= 12
+E) ARRNUMBER= 65536-1= 65535
+F) Duration = (624%1500)*30=624*30= 18720
+G) LEDPINNUMBER= (1145%4)+12= 1+12=13
+
+
+C) sum of Ascii name =>(b = 98) + (e = 101) +( r = 114) +( k = 107) +( e = 101)  =521
+ sum of Ascii surname =>(d = 100) + (e = 101) + (v = 118) + (e = 101) + (c= 99) + (i= 105) =624
+Asciitotal =1145 
+ 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+________________
